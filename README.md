@@ -1,1 +1,1 @@
-# CML-vs-QML-for-MNIST-
+# This reposiroty contains the notebook where we compare various performance matrices between a convolutional neural network, a quantum convolutional neural network and a hybrid model on the MNIST digits dataset.
